@@ -3,16 +3,17 @@
 Part of the **[cc-mods](https://github.com/cc-mods)** CrossCode suite — quality-of-life tweaks for
 the cc-ios iPhone/iPad wrapper (Restart/Close title buttons + an FPS-counter toggle).
 
-📓 **Read the knowledge base first:**
-**[`cc-mods/knowledge`](https://github.com/cc-mods/knowledge)** (private; org members only) is the
-source of truth for hard-won findings. Most relevant here:
-- [`crosscode-modding.md`](https://github.com/cc-mods/knowledge/blob/main/crosscode-modding.md) —
+📓 **Read the suite agent docs first:**
+**[`cc-mods/cc-agentdocs`](https://github.com/cc-mods/cc-agentdocs)** (private; org members only) is the
+source of truth for hard-won findings — start at its
+[`AGENTS.md`](https://github.com/cc-mods/cc-agentdocs/blob/main/AGENTS.md). Most relevant here:
+- [`crosscode-modding.md`](https://github.com/cc-mods/cc-agentdocs/blob/main/crosscode-modding.md) —
   platform detection and the "iOS-targeted but universally safe" pattern this mod embodies.
-- [`cc-ios.md`](https://github.com/cc-mods/knowledge/blob/main/cc-ios.md) — the `cccontrol`/`cchost`
+- [`cc-ios.md`](https://github.com/cc-mods/cc-agentdocs/blob/main/cc-ios.md) — the `cccontrol`/`cchost`
   native bridges it posts to, the title-screen menu internals, and the **native** FPS overlay this
   mod's setting toggles.
 
-**When you learn something durable, add it to `cc-mods/knowledge`** and keep this pointer intact.
+**When you learn something durable, add it to `cc-mods/cc-agentdocs`** and keep this pointer intact.
 
 ## What this is
 
