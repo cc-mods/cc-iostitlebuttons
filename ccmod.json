@@ -1,6 +1,6 @@
 {
 	"id": "cc-iosux",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"title": "cc-ios UX",
 	"description": "iOS quality-of-life: Restart/Close title buttons + FPS-counter toggle (Mod settings). Clean no-op on desktop.",
 	"repository": "https://github.com/cc-mods/cc-iosux",

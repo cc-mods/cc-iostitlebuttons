@@ -1,6 +1,6 @@
 {
 	"name": "cc-iosux",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"ccmodHumanName": "cc-ios UX",
 	"description": "iOS quality-of-life: Restart/Close title buttons + FPS-counter toggle (Mod settings). Clean no-op on desktop.",
 	"prestart": "prestart.js",
